@@ -1,0 +1,10 @@
+.noadblock {
+    padding: 10px;
+    background:#fff;
+    border: 1px dotted #eee;  
+    font-size: 18px;
+    line-height: 1.38em;  
+    text-align:center;
+    color:#444;
+    background: #FFFFD3;
+}
