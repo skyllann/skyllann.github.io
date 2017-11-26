@@ -1,0 +1,1030 @@
+@import 'https://fonts.googleapis.com/css?family=Orbitron|Pacifico|Permanent+Marker|Yatra+One';
+
+@font-face {
+    font-family: Base;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Base.ttf);
+}
+@font-face {
+    font-family: zipper1;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/zipper1.ttf);
+}
+@font-face {
+    font-family: team;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/team.ttf);
+}
+@font-face {
+    font-family: ssvivas;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ssvivas.ttf);
+}
+@font-face {
+    font-family: simpleiriska;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/simpleiriska.ttf);
+}
+@font-face {
+    font-family: krestik;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/krestik.ttf);
+}
+@font-face {
+    font-family: gotikabrokas;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/gotikabrokas.ttf);
+}
+@font-face {
+    font-family: acogessic;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/acogessic.ttf);
+}
+@font-face {
+    font-family: ZnikomitNo24;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ZnikomitNo24.ttf);
+}
+@font-face {
+    font-family: Xiogfto;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Xiogfto.ttf);
+}
+@font-face {
+    font-family: WoWSlFKGBold;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/WoWSlFKGBold.ttf);
+}
+@font-face {
+    font-family: VideopacCyrillic;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/VideopacCyrillic.ttf);
+}
+@font-face {
+    font-family: TrixiePro-Heavy;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/TrixiePro-Heavy.ttf);
+}
+@font-face {
+    font-family: Terpsichora;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Terpsichora.ttf);
+}
+@font-face {
+    font-family: Sunday;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Sunday.ttf);
+}
+@font-face {
+    font-family: Steamy;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Steamy.ttf);
+}
+@font-face {
+    font-family: SpriteGraffitiShadow;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SpriteGraffitiShadow.ttf);
+}
+@font-face {
+    font-family: SporedomRUS;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SporedomRUS.ttf);
+}
+@font-face {
+    font-family: SpiritsRU;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SpiritsRU.ttf);
+}
+@font-face {
+    font-family: SnowstormKraft;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SnowstormKraft.ttf);
+}
+@font-face {
+    font-family: SnowstormInline;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SnowstormInline.ttf);
+}
+@font-face {
+    font-family: Sladkoeshka;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Sladkoeshka.ttf);
+}
+@font-face {
+    font-family: Screpka;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Screpka.ttf);
+}
+@font-face {
+    font-family: RupsterScriptFree;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RupsterScriptFree.ttf);
+}
+@font-face {
+    font-family: Resphekt;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Resphekt.ttf);
+}
+@font-face {
+    font-family: RedOctoberStencil;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RedOctoberStencil.ttf);
+}
+@font-face {
+    font-family: RealGrinder;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RealGrinder.ttf);
+}
+@font-face {
+    font-family: RafaleRU;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RafaleRU.ttf);
+}
+@font-face {
+    font-family: RUSBoycott;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RUSBoycott.ttf);
+}
+@font-face {
+    font-family: Prism;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Prism.ttf);
+}
+@font-face {
+    font-family: Perfograma;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Perfograma.ttf);
+}
+@font-face {
+    font-family: Pacmania;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Pacmania.ttf);
+}
+@font-face {
+    font-family: PFSquare;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/PFSquare.ttf);
+}
+@font-face {
+    font-family: Obelix;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Obelix.ttf);
+}
+@font-face {
+    font-family: Nickainley;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Nickainley.ttf);
+}
+@font-face {
+    font-family: NexaScript;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/NexaScript.ttf);
+}
+@font-face {
+    font-family: Neonic;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Neonic.ttf);
+}
+@font-face {
+    font-family: NeSkid;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/NeSkid.ttf);
+}
+@font-face {
+    font-family: MonsterHigh;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MonsterHigh.ttf);
+}
+@font-face {
+    font-family: Minecraft;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Minecraft.ttf);
+}
+@font-face {
+    font-family: Metropolis;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Metropolis.ttf);
+}
+@font-face {
+    font-family: Mefestico;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Mefestico.ttf);
+}
+@font-face {
+    font-family: MartAWX;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MartAWX.ttf);
+}
+@font-face {
+    font-family: MBThinkTwice;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MBThinkTwice.ttf);
+}
+@font-face {
+    font-family: LCDNova;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/LCDNova.ttf);
+}
+@font-face {
+    font-family: Keetano;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Keetano.ttf);
+}
+@font-face {
+    font-family: Katherine;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Katherine.ttf);
+}
+@font-face {
+    font-family: Kanyon;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Kanyon.ttf);
+}
+@font-face {
+    font-family: IntroRustG;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/IntroRustG.ttf);
+}
+@font-face {
+    font-family: Houschka;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Houschka.ttf);
+}
+@font-face {
+    font-family: HACKED;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/HACKED.ttf);
+}
+@font-face {
+    font-family: GoodVi;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GoodVi.ttf);
+}
+@font-face {
+    font-family: GUERRILLA;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GUERRILLA.ttf);
+}
+@font-face {
+    font-family: Frezer;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Frezer.ttf);
+}
+@font-face {
+    font-family: FrankC;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/FrankC.ttf);
+}
+@font-face {
+    font-family: FatC;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/FatC.ttf);
+}
+@font-face {
+    font-family: Fantazyor;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Fantazyor.ttf);
+}
+@font-face {
+    font-family: Epool;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Epool.ttf);
+}
+@font-face {
+    font-family: Dotdigital;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Dotdigital.ttf);
+}
+@font-face {
+    font-family: Dan;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Dan.ttf);
+}
+@font-face {
+    font-family: Dalmata;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Dalmata.ttf);
+}
+@font-face {
+    font-family: Curely;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Curely.ttf);
+}
+@font-face {
+    font-family: Curely2;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Curely2.ttf);
+}
+@font-face {
+    font-family: Cert;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Cert.ttf);
+}
+@font-face {
+    font-family: Cartoon;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Cartoon.ttf);
+}
+@font-face {
+    font-family: COLORADOX;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/COLORADOX.ttf);
+}
+@font-face {
+    font-family: Bold;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Bold.ttf);
+}
+@font-face {
+    font-family: BemountLine;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BemountLine.ttf);
+}
+@font-face {
+    font-family: BellBottom;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BellBottom.ttf);
+}
+@font-face {
+    font-family: BERNIERD;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BERNIERD.ttf);
+}
+@font-face {
+    font-family: Astakhov;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Astakhov.ttf);
+}
+@font-face {
+    font-family: AmphiCYR;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AmphiCYR.ttf);
+}
+@font-face {
+    font-family: AllodsWest;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AllodsWest.ttf);
+}
+@font-face {
+    font-family: AcidLabel;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AcidLabel.ttf);
+}
+@font-face {
+    font-family: ALOT;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ALOT.ttf);
+}
+@font-face {
+    font-family: ChasingEmbers;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ChasingEmbers.ttf);
+}
+@font-face {
+    font-family: Flavors;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Flavors.ttf);
+}
+@font-face {
+    font-family: AlienLines;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AlienLines.ttf);
+}
+@font-face {
+    font-family: BleedingC;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BleedingC.ttf);
+}
+@font-face {
+    font-family: BukhariS;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BukhariS.ttf);
+}
+@font-face {
+    font-family: GrotoGr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GrotoGr.ttf);
+}
+@font-face {
+    font-family: MonumentoTitulSh;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MonumentoTitulSh.ttf);
+}
+@font-face {
+    font-family: RomanusSh;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RomanusSh.ttf);
+}
+@font-face {
+    font-family: SimplerPrspSh;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SimplerPrspSh.ttf);
+}
+@font-face {
+    font-family: BosaNovaSh;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BosaNovaSh.ttf);
+}
+@font-face {
+    font-family: FuturaRoundTitulSh;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/FuturaRoundTitulSh.ttf);
+}
+@font-face {
+    font-family: InformShadowCTT;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/InformShadowCTT.ttf);
+}
+@font-face {
+    font-family: Bremen3DCm;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Bremen3DCm.ttf);
+}
+@font-face {
+    font-family: GildiaTiulPillar3D;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GildiaTiulPillar3D.ttf);
+}
+@font-face {
+    font-family: MachinaNovaBrk;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaNovaBrk.ttf);
+}
+@font-face {
+    font-family: MachinaOrtoPrk;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaOrtoPrk.ttf);
+}
+@font-face {
+    font-family: StamperBrk;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/StamperBrk.ttf);
+}
+@font-face {
+    font-family: MachinaOrtoSht;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaOrtoSht.ttf);
+}
+@font-face {
+    font-family: ArribaLETPlain;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ArribaLETPlain.ttf);
+}
+@font-face {
+    font-family: FuturisXCondd;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/FuturisXCondd.ttf);
+}
+@font-face {
+    font-family: RubinoPlain;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RubinoPlain.ttf);
+}
+@font-face {
+    font-family: BMspiralCapCyr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BMspiralCapCyr.ttf);
+}
+@font-face {
+    font-family: BeastImpacted;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BeastImpacted.ttf);
+}
+@font-face {
+    font-family: Blaze;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Blaze.ttf);
+}
+@font-face {
+    font-family: Countdown;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Countdown.ttf);
+}
+@font-face {
+    font-family: Current;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Current.ttf);
+}
+@font-face {
+    font-family: DSAyaks;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSAyaks.ttf);
+}
+@font-face {
+    font-family: DSComedy;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSComedy.ttf);
+}
+@font-face {
+    font-family: DSDownCyr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSDownCyr.ttf);
+}
+@font-face {
+    font-family: Amelia;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Amelia.ttf);
+}
+@font-face {
+    font-family: DSPoddCyrLight;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSPoddCyrLight.ttf);
+}
+@font-face {
+    font-family: DSQuadroBlack;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSQuadroBlack.ttf);
+}
+@font-face {
+    font-family: DSVanishMedium;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSVanishMedium.ttf);
+}
+@font-face {
+    font-family: Zombie;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Zombie.ttf);
+}
+@font-face {
+    font-family: SholomMedium;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SholomMedium.ttf);
+}
+@font-face {
+    font-family: Etude;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Etude.ttf);
+}
+@font-face {
+    font-family: Flowerchild;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Flowerchild.ttf);
+}
+@font-face {
+    font-family: Astrolyte;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Astrolyte.ttf);
+}
+@font-face {
+    font-family: Danube;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Danube.ttf);
+}
+@font-face {
+    font-family: Lunasol;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Lunasol.ttf);
+}
+@font-face {
+    font-family: Tranceform;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Tranceform.ttf);
+}
+@font-face {
+    font-family: Vectroid;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Vectroid.ttf);
+}
+@font-face {
+    font-family: Melba;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Melba.ttf);
+}
+@font-face {
+    font-family: Grunge;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Grunge.ttf);
+}
+@font-face {
+    font-family: NewDeli;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/NewDeli.ttf);
+}
+@font-face {
+    font-family: Ogilvie;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Ogilvie.ttf);
+}
+@font-face {
+    font-family: Saffron;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Saffron.ttf);
+}
+@font-face {
+    font-family: SeedsCyrMedium;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SeedsCyrMedium.ttf);
+}
+@font-face {
+    font-family: Techno28;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Techno28.ttf);
+}
+@font-face {
+    font-family: VegasDesert;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/VegasDesert.ttf);
+}
+@font-face {
+    font-family: SkazkaForSerge;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SkazkaForSerge.ttf);
+}
+@font-face {
+    font-family: WindCTT;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/WindCTT.ttf);
+}
+@font-face {
+    font-family: Graffiti2CTT;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Graffiti2CTT.ttf);
+}
+@font-face {
+    font-family: Favorit;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Favorit.ttf);
+}
+@font-face {
+    font-family: CopperGothDcFr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CopperGothDcFr.ttf);
+}
+@font-face {
+    font-family: BosaNovaDc;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BosaNovaDc.ttf);
+}
+@font-face {
+    font-family: Globus;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Globus.ttf);
+}
+@font-face {
+    font-family: MACABRA;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MACABRA.ttf);
+}
+@font-face {
+    font-family: DSNote;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSNote.ttf);
+}
+@font-face {
+    font-family: ArtemisDeco;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ArtemisDeco.ttf);
+}
+@font-face {
+    font-family: Briolin;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Briolin.ttf);
+}
+@font-face {
+    font-family: ClipCondensed;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ClipCondensed.ttf);
+}
+@font-face {
+    font-family: CastileoMedium;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CastileoMedium.ttf);
+}
+@font-face {
+    font-family: Cranberry;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Cranberry.ttf);
+}
+@font-face {
+    font-family: Dagger;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Dagger.ttf);
+}
+@font-face {
+    font-family: Karolla;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Karolla.ttf);
+}
+@font-face {
+    font-family: Metropol95;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Metropol95.ttf);
+}
+@font-face {
+    font-family: VeronicaOne;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/VeronicaOne.ttf);
+}
+@font-face {
+    font-family: VeronicaTwo;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/VeronicaTwo.ttf);
+}
+@font-face {
+    font-family: Futura;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/FuturaRoundTitulSh.ttf);
+}
+@font-face {
+    font-family: Huxley;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Huxley.ttf);
+}
+@font-face {
+    font-family: SimplerFnt;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SimplerFnt.ttf);
+}
+@font-face {
+    font-family: DPix;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DPix.ttf);
+}
+@font-face {
+    font-family: DSCrystal;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSCrystal.ttf);
+}
+@font-face {
+    font-family: DotsMedium;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DotsMedium.ttf);
+}
+@font-face {
+    font-family: Arabic;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Arabic.ttf);
+}
+@font-face {
+    font-family: HarringtonM;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/HarringtonM.ttf);
+}
+@font-face {
+    font-family: AmpirDeco;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AmpirDeco.ttf);
+}
+@font-face {
+    font-family: DisneyPark;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DisneyPark.ttf);
+}
+@font-face {
+    font-family: Edisson;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Edisson.ttf);
+}
+@font-face {
+    font-family: Cheshirskiy;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Cheshirskiy.ttf);
+}
+@font-face {
+    font-family: Moonchild;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Moonchild.ttf);
+}
+@font-face {
+    font-family: Remeslo;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Remeslo.ttf);
+}
+@font-face {
+    font-family: Rurintania;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Rurintania.ttf);
+}
+@font-face {
+    font-family: SimplerStrs;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/SimplerStrs.ttf);
+}
+@font-face {
+    font-family: BlackmoorLET;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BlackmoorLET.ttf);
+}
+@font-face {
+    font-family: DrPoDecor;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DrPoDecor.ttf);
+}
+@font-face {
+    font-family: DreamScar;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DreamScar.ttf);
+}
+@font-face {
+    font-family: Flamme;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Flamme.ttf);
+}
+@font-face {
+    font-family: Ariadna;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Ariadna.ttf);
+}
+@font-face {
+    font-family: OliettaLB;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/OliettaLB.ttf);
+}
+@font-face {
+    font-family: Scriptorama;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Scriptorama.ttf);
+}
+@font-face {
+    font-family: RondoCall;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RondoCall.ttf);
+}
+@font-face {
+    font-family: VenskiSad;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/VenskiSad.ttf);
+}
+@font-face {
+    font-family: Greece;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Greece.ttf);
+}
+@font-face {
+    font-family: RunicAlt;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RunicAlt.ttf);
+}
+@font-face {
+    font-family: BighausTi;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BighausTi.ttf);
+}
+@font-face {
+    font-family: RewinderTi;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RewinderTi.ttf);
+}
+@font-face {
+    font-family: MonumentoTi;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MonumentoTi.ttf);
+}
+@font-face {
+    font-family: HuxleyCaps;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/HuxleyCaps.ttf);
+}
+@font-face {
+    font-family: Alice;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Alice.ttf);
+}
+@font-face {
+    font-family: ArtistNo;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ArtistNo.ttf);
+}
+@font-face {
+    font-family: Baltimore;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Baltimore.ttf);
+}
+@font-face {
+    font-family: BeaumarchaisC;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BeaumarchaisC.ttf);
+}
+@font-face {
+    font-family: ParkV;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ParkV.ttf);
+}
+@font-face {
+    font-family: Parkof;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Parkof.ttf);
+}
+@font-face {
+    font-family: Sapphire;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Sapphire.ttf);
+}
+@font-face {
+    font-family: TeddyBea;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/TeddyBea.ttf);
+}
+@font-face {
+    font-family: TheaterA;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/TheaterA.ttf);
+}
+@font-face {
+    font-family: Romashulka;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Romashulka.ttf);
+}
+@font-face {
+    font-family: Glimstick;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Glimstick.ttf);
+}
+@font-face {
+    font-family: FDMedian;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/FDMedian.ttf);
+}
+@font-face {
+    font-family: WonderlandS;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/WonderlandS.ttf);
+}
+@font-face {
+    font-family: NfSMW;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/NfSMW.ttf);
+}
+@font-face {
+    font-family: RosaM;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RosaM.ttf);
+}
+@font-face {
+    font-family: ChinaCyr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ChinaCyr.ttf);
+}
+@font-face {
+    font-family: Deftone;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Deftone.ttf);
+}
+@font-face {
+    font-family: Karton;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Karton.ttf);
+}
+@font-face {
+    font-family: Xtreem;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Xtreem.ttf);
+}
+@font-face {
+    font-family: Sunday;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Sunday.ttf);
+}
+@font-face {
+    font-family: Lineage;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Lineage.ttf);
+}
+@font-face {
+    font-family: AmazDooM;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AmazDooM.ttf);
+}
+@font-face {
+    font-family: Toodik;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Toodik.ttf);
+}
+@font-face {
+    font-family: StudentAWX;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/StudentAWX.ttf);
+}
+@font-face {
+    font-family: DoubleW;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DoubleW.ttf);
+}
+@font-face {
+    font-family: Chocolate;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Chocolate.ttf);
+}
+@font-face {
+    font-family: CocaCola;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CocaCola.ttf);
+}
+@font-face {
+    font-family: Kapelka;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Kapelka.ttf);
+}
+@font-face {
+    font-family: DublonC;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DublonC.ttf);
+}
+@font-face {
+    font-family: ColumnS;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ColumnS.ttf);
+}
+@font-face {
+    font-family: MorningG;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MorningG.ttf);
+}
+@font-face {
+    font-family: RibbonHeart;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/RibbonHeart.ttf);
+}
+@font-face {
+    font-family: VALStencil;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/VALStencil.ttf);
+}
+@font-face {
+    font-family: Demonic;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Demonic.ttf);
+}
+@font-face {
+    font-family: Cogtan;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Cogtan.ttf);
+}
+@font-face {
+    font-family: CoreEscherA;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CoreEscherA.ttf);
+}
+@font-face {
+    font-family: CoreEscherARight;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CoreEscherARight.ttf);
+}
+@font-face {
+    font-family: CoreEscherBLeft;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CoreEscherBLeft.ttf);
+}
+@font-face {
+    font-family: CoreEscherBRight;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CoreEscherBRight.ttf);
+}
+@font-face {
+    font-family: Tangak;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Tangak.ttf);
+}
+@font-face {
+    font-family: Slot;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Slot.ttf);
+}
+@font-face {
+    font-family: GFTOGraffityS;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GFTOGraffityS.ttf);
+}
+@font-face {
+    font-family: GRAFFITI;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GRAFFITI.ttf);
+}
+@font-face {
+    font-family: GRAFFITIB;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/GRAFFITIB.ttf);
+}
+@font-face {
+    font-family: BarberryLetters;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/BarberryLetters.ttf);
+}
+@font-face {
+    font-family: TagType;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/TagType.ttf);
+}
+@font-face {
+    font-family: NefelibataBrush;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/NefelibataBrush.ttf);
+}
+@font-face {
+    font-family: UnTornado;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/UnTornado.ttf);
+}
+@font-face {
+    font-family: LaMonaKids;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/LaMonaKids.ttf);
+}
+@font-face {
+    font-family: AmeliaDG;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AmeliaDG.ttf);
+}
+@font-face {
+    font-family: Arroterminal;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Arroterminal.ttf);
+}
+@font-face {
+    font-family: AvanteTitulInline;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AvanteTitulInline.ttf);
+}
+@font-face {
+    font-family: AzerothCyrillic;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AzerothCyrillic.ttf);
+}
+@font-face {
+    font-family: Beryozki;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Beryozki.ttf);
+}
+@font-face {
+    font-family: COLORADOIII;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/COLORADOIII.ttf);
+}
+@font-face {
+    font-family: Comfortaa;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Comfortaa.ttf);
+}
+@font-face {
+    font-family: ConstaciaModern;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/ConstaciaModern.ttf);
+}
+@font-face {
+    font-family: CopperGothDcFr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CopperGothDcFr.ttf);
+}
+@font-face {
+    font-family: CoquetteC;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CoquetteC.ttf);
+}
+@font-face {
+    font-family: Countdown;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Countdown.ttf);
+}
+@font-face {
+    font-family: DOCKERTWO;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DOCKERTWO.ttf);
+}
+@font-face {
+    font-family: DSSharper;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DSSharper.ttf);
+}
+@font-face {
+    font-family: DecomartFF4F;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DecomartFF4F.ttf);
+}
+@font-face {
+    font-family: DecreeArt;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/DecreeArt.ttf);
+}
+@font-face {
+    font-family: Dited;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Dited.ttf);
+}
+@font-face {
+    font-family: Down;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Down.ttf);
+}
+@font-face {
+    font-family: Dsstamp;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Dsstamp.ttf);
+}
+@font-face {
+    font-family: EmpirialNr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/EmpirialNr.ttf);
+}
+@font-face {
+    font-family: Grunge;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Grunge.ttf);
+}
+@font-face {
+    font-family: Flowerchild;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Flowerchild.ttf);
+}
+@font-face {
+    font-family: MachinaOrtoGr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaOrtoGr.woff);
+}
+@font-face {
+    font-family: MachinaOrtoGr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaOrtoGr.eot);
+}
+@font-face {
+    font-family: MachinaOrtoGr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaOrtoGr.otf);
+}
+@font-face {
+    font-family: MachinaOrtoGr;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/MachinaOrtoGr.svg);
+}
+@font-face {
+    font-family: Astakhov;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Astakhov.ttf);
+}
+@font-face {
+    font-family: CricketN;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CricketN.ttf);
+}
+@font-face {
+    font-family: CricketN;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CricketN.woff);
+}
+@font-face {
+    font-family: CricketN;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CricketN.eot);
+}
+@font-face {
+    font-family: CricketN;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CricketN.otf);
+}
+@font-face {
+    font-family: CricketN;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/CricketN.svg);
+}
+@font-face {
+    font-family: AA-Neon;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/AA-Neon.ttf);
+}
+@font-face {
+    font-family: Ironedition;
+    src: url(http://ntmaker.gfto.ru/textbackgroundimages/template/fonts/Ironedition.ttf);
+}
