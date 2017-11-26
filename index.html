@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Solar System</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="js/jquery-1-4-2.min.js"></script> 
+
+<script type="text/javascript" src="js/jquery-ui.min.js"></script> 
+<script type="text/javascript" src="js/showhide.js"></script> 
+<script type="text/JavaScript" src="js/jquery.mousewheel.js"></script> 
+
+<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/ddsmoothmenu.js">
+
+</script>
+
+<script type="text/javascript">
+
+ddsmoothmenu.init({
+	mainmenuid: "menu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+</script> 
+
+<!-- загружается JavaScript file -->
+<script type="text/JavaScript" src="js/cloud-carousel.1.0.5.js"></script>
+ 
+<script type="text/javascript">
+$(document).ready(function(){
+						   
+	// инициализация карусели в указаном элементе контейнера
+	$("#carousel1").CloudCarousel(		
+		{			
+			reflHeight: 40,
+			reflGap: 0,
+			titleBox: $('#da-vinci-title'),
+			altBox: $('#da-vinci-alt'),
+			buttonLeft: $('#slider-left-but'),
+			buttonRight: $('#slider-right-but'),
+			yRadius: 30,
+			xPos: 480,
+			yPos: 32,
+			speed:0.1,
+			autoRotate: "yes",
+			autoRotateDelay: 3000
+		}
+	);
+});
+ 
+</script>
+
+</head>
+
+<body id="home">
+
+<div id="header_wrapper">
+	<div id="site_title"><h1><a href="index.html"><img src="images/3.gif" width="300" height="56"/></a></h1></div>
+     <div id="menu" class="ddsmoothmenu">
+        <ul>
+            <li><a href="index.html" class="selected">Home</a></li>
+            <li><a href="#">О нас</a>
+            </li>
+            <li><a href="#">Портфолио</a>
+                <ul>
+                    <li><span class="top"></span><span class="bottom"></span></li>
+                    <li><a >Меркурий</a></li>
+                    <li><a >Венера</a></li>
+                    <li><a >Земля</a></li>
+                    <li><a >Марс</a></li>
+                    <li><a >Юпитер</a></li>
+					<li><a >Сатурн</a></li>
+					<li><a >Уран</a></li>
+					<li><a >Нептун</a></li>
+					<li><a >Плутон</a></li>
+              	</ul>
+            </li>
+            <li><a href="contact.html">Контакты</a></li>
+        </ul>
+        <br style="clear: left" />
+    </div> <!-- конец меню -->
+    <div class="cleaner"></div>
+</div>	<!-- конец header_wrapper -->
+<div id="slider">
+	<!-- контейнер для карусели -->
+    <div id = "carousel1" style="width:960px; height:280px;background:none;overflow:scroll; margin-top: 20px">            
+        <!-- изображения для карусели-->
+        <!-- загрузка и размещение изображений-->
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/merkury_2.png" alt="Меркурий" title="Меркурий" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/venera_2.png" alt="Венера" title="Венера" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/earth_2.png" alt="Земля" title="Земля" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/mars_2.png" alt="Марс" title="Марс" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/upiter_2.png" alt="Юпитер" title="Юпитер" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/saturn_2.png" alt="Сатурн" title="Сатурн" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/yran_2.png" alt="Уран" title="Уран" width="" height=""/></a>
+        <a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/neptun_2.png" alt="Нептун" title="Нептун" width="" height=""/></a>
+		<a href="#" rel="lightbox"><img class="cloudcarousel" src="images/slider/pluton_2.png" alt="Плутон" title="Плутон" width="" height=""/></a>
+    </div>
+    
+    <!-- создание левой и правой кнопки -->
+    <center>
+		<input id="slider-left-but" type="button" value="" />
+		<input id="slider-right-but" type="button" value="" />
+    </center>
+</div>
+<div id="main">
+	
+    <div class="col one_third fp_services">
+		<h2>Актуальность</h2>
+		<img src="images/planeta-animatsionnaya-kartinka-0005.gif" alt="Image 04 " class="image_fl" />
+		<p>В данный момент времени в системе образования все чаще используют обучающие программы.</p>
+		<p>Компьютерные обучающие программы составляют обширный класс средств, относящихся к образовательным информационным технологиям.</p> 
+		<p>На сегодняшний день они обеспечивают поддержку учебного процесса наравне с традиционными учебно-методическими средствами.</p>
+		<p>Наше приложение создано дабы компенсировать недостатки в  обучении подростков и детей так же вызвать интерес к предметной области.</p>
+		<p>Выполненное в виде игрового приложения оно не вызовет такого отторжения у детей и подростков и в то же время позволит им получить информацию о планетах солнечной системы.</p>
+		
+	</div>
+    <div class="col one_third fp_services">
+        <h2>Функционал</h2>
+        <div class="rp_pp">
+            <img src="images/Flat_logo.png" width="" height="" alt="Image 01" />
+			<p>Данный проект представляет собой обучающее приложение, с помощью которого можно быстро и без усилий получить информацию о планетах солнечной системы и нашей звезды – Солнце.</p>
+            <h4>Возможности проекта:</h4>
+			<ul class="list">
+				<li class="flow">Просмотр солнечной системы в реальном времени;</li>
+				<li class="flow nomr">Доступ к информации по каждой планете в отдельности;</li>
+				<li class="flow">Регулирование качества графики;</li>
+				<li class="flow nomr">Просмотр планеты с её поверхности.</li>
+			</ul>
+            <div class="cleaner"></div>
+        </div>
+			<h4>Особенности проекта:</h4>
+			<h20><p>Для реализаций обучающей программы был использован инструмент для разработки двух- и трёхмерных программ и игр Unity 3D. Обучающей программа является своего рода виртуальными планетарием и обсерваторией. Солнечная система имеет отличную 3D визуализацию, при этом учтены реальные физические и геометрические параметры. Также есть возможность наблюдать синхронизированное движение всех объектов солнечной системы.</p></h20>
+            <div class="cleaner"></div>
+    </div>
+    <div class="col one_third no_margin_right fp_services">
+        <h2>Область применения</h2>
+		<h20><p>Данные проект нацелен на школьную и студенческую аудиторию. Приложение можно использовать в образовательных учреждениях непосредственно в предметной области такой как Астрономия. Так же данное приложение может быть использовано в свободном обучении для саморазвития.</p></h20>
+    </div>
+    
+    <div class="cleaner"></div>
+</div> <!-- конец main -->
+
+<div id="bottom_wrapper">
+    <div id="bottom">
+    	<div class="col one_third">
+        	<h4><span></span>Аналоги</h4>
+            <div class="bottom_box">
+                <ul class="twitter_post">
+                    <li><a href="http://spacegid.com">Симулятор солнечной системы</a></li>
+                    <li><a href="https://www.microsoft.com/uk-ua/store/p/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0/9nblggh2s72m">Интерактивная солнечная система</a></li>
+                    <li><a href="https://play.google.com/store/apps/details?id=com.burlock.solarexplorerlite&hl=ru">Солнечная система HD</a></li>
+                    <li><a href="http://solar_system_3d_simulator.ru.downloadastro.com/">Трёхмерный симулятор солнечной системы</a></li>
+                </ul>  
+			</div>
+        </div>
+        <div class="col one_third">
+        	<h4><span></span>Идея проекта</h4>
+            <div class="bottom_box">
+				<p>Наше приложение создано дабы компенсировать недостатки в обучении подростков и детей так же вызвать интерес к предметной области. Выполненное в виде игрового приложения оно не вызовет такого отторжения у детей и подростков и в то же время позволит им получить информацию о планетах солнечной системы.</p>
+			</div>
+        </div>
+        <div class="col one_third no_margin_right">
+        	<h4><span></span>Над проектом работали</h4>
+            <div class="bottom_box">
+				<ul class="footer_list">
+                    <li>Белов В.В.</li>
+                    <li>Костыря Р.Г.</li>
+                    <li>Шаповалов А.А.</li>
+                </ul> 
+                <div class="footer_social_button">
+					<a href="#"><img src="images/vk.png" title="vk" alt="vk" /></a>
+                    <a href="#"><img src="images/facebook.png" title="facebook" alt="facebook" /></a>
+                    <a href="#"><img src="images/twitter.png" title="twitter" alt="twitter" /></a>
+                    <a href="#"><img src="images/youtube.png" title="youtube" alt="youtube" /></a>
+					<a href="#"><img src="images/Instagram.png" width="27" height="27" title="instagram" alt="instagram" /></a>
+                </div>
+            </div>
+        </div>
+        
+    	<div class="cleaner"></div>
+    </div> <!-- коенц bottom -->
+</div> <!-- конец bottom_wrapper -->
+
+<div id="footer_wrapper">
+    <div id="footer">
+    	Copyright © 2017 Solar System. Все права защищены 
+    </div> <!-- конец footer_wrapper -->
+</div> <!-- конец footer -->
+
+</body>
+</html>
