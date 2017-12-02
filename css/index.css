@@ -111,7 +111,7 @@ h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
 #header_wrapper {
 	width: 960px;
 	margin: 0 auto;
-	padding: 40px 10px 20px;
+	padding: 40px 40px 20px;
 	background: url(../images/header_dividier.png) repeat-x bottom;
 }
 
@@ -248,8 +248,6 @@ h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
 	width: 150px; 
 	height: 50px; 
 	color: #029ffd; 
-	/*text-indent: -1000000000000px; */
-	/*background: url(../images/logo_2.png) no-repeat center left; */
 }
 
 #menu { float: right; }
@@ -736,7 +734,118 @@ p.position {
 }
 
 .pagging ul li a:hover { 
-	background: #7f0d0d; 
+	background: #a9a2a2; 
 	border: 1px solid #fff; 
 	color: #fff;  
 }
+
+.mercury_1 p{
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.mercury_1 h5 {
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#029ffd;
+	text-align:center;
+}
+
+.venus_2 p{
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.venus_2 h5 {
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#029ffd;
+	text-align:center;
+}
+
+.earth_3  p{
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.earth_3 h5 {
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#029ffd;
+	text-align:center;
+}
+
+.mars_4  p{
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:14px;
+}
+
+.mars_4 h5 {
+	margin-top:15px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:24px;
+	color:#029ffd;
+	text-align:center;
+}
+
+
+
+.foto_mars_center{
+	padding-left:240px;
+	padding-top:215px;
+}
+/*----------------------------------------------*/
+.earth_page {
+	padding-left:120px;
+	padding-top:15px;
+}
+
+.earth_page h5{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:18px;
+}
+
+.moon_page {
+	padding-left:120px;
+	padding-top:15px;
+}
+
+.moon_page h5{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:18px;
+}
+
+.mars_page {
+	padding-left:120px;
+	padding-top:15px;
+}
+
+.mars_page h5{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
